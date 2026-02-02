@@ -11,7 +11,7 @@ This repository contains the neural weights and manifold interrogation scripts u
 - Zenodo Records
 - 10.5281/zenodo.18454377
 
-  100millOficialProof.py
+100millOficialProof.py
 - md5:f236b9d7c6ebdbada4c174f99904664c
   
 Metalearnerv16_EVOLVED.zip
