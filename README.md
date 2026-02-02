@@ -5,6 +5,8 @@ Date First Discovery Created: Monday February 2nd 2026
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18454738.svg)](https://doi.org/10.5281/zenodo.18454738)
 
+​"🛡️ Integrity Verified: All core discovery files are cryptographically signed in MANIFEST.txt. Any version of this repository without a matching hash is an unauthorized derivative."
+
 ## Overview
 This repository contains the neural weights and manifold interrogation scripts used to identify high-probability Mersenne prime candidates at the Zettillion and Googolplex scales.
 
