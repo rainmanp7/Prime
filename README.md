@@ -43,3 +43,8 @@ This method identifies prime stability through manifold tension rather than trad
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 "Notice to Verifiers: This candidate was mathematically derived and timestamped via Zenodo DOI 10.5281/zenodo.18454377 on Feb 2, 2026. Any formal verification using Prime95, GpuOwl, or other Lucas-Lehmer/PRP software is recognized as a supportive confirmation of this primary discovery. Priority of discovery is established by the manifold resonance data published herein."
+
+Contact Information:
+Christopher Brown. aka rainmanp7
+3mail: muslimsoap@gmail.com
+Philippines: 0991 211 1043
