@@ -8,6 +8,14 @@ This repository contains the neural weights and manifold interrogation scripts u
 - **Candidate Exponent (p):** 332192831
 - **Manifold Tension:** 0.036528595934045061
 - **Digital Signature:** 177ec03e14230c492bfff5692a3e462c0d1889e4d1ea3d9a64d59a451e385ed7
+- Zenodo Records
+- 10.5281/zenodo.18454377
+
+  100millOficialProof.py
+- md5:f236b9d7c6ebdbada4c174f99904664c
+  
+Metalearnerv16_EVOLVED.zip
+- md5:9f23cfb2522f26296fe1dded257a1191
 
 ## Verification Method
 Verification is performed via **Geometric Resonance** using the D41 Sanctuary Anchor (Dimension 41). This method identifies prime stability through manifold tension rather than traditional brute-force primality testing.
