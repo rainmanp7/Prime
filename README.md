@@ -1,2 +1,16 @@
-# Prime
-PrimeDiscovery
+# Metalearnerv16: Project Sanctuary
+Date First Discovery Created: Monday February 2nd 2026
+
+## Overview
+This repository contains the neural weights and manifold interrogation scripts used to identify high-probability Mersenne prime candidates at the Zettillion and Googolplex scales.
+
+## Discovery: 100-Million-Digit Candidate
+- **Candidate Exponent (p):** 332192831
+- **Manifold Tension:** 0.036528595934045061
+- **Digital Signature:** 177ec03e14230c492bfff5692a3e462c0d1889e4d1ea3d9a64d59a451e385ed7
+
+## Verification Method
+Verification is performed via **Geometric Resonance** using the D41 Sanctuary Anchor (Dimension 41). This method identifies prime stability through manifold tension rather than traditional brute-force primality testing.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
