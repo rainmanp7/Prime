@@ -17,6 +17,8 @@ This repository contains the neural weights and manifold interrogation scripts u
 Metalearnerv16_EVOLVED.zip
 - md5:9f23cfb2522f26296fe1dded257a1191
 
+- Proof location: https://zenodo.org/records/18454377
+
 ## Verification Method
 Verification is performed via **Geometric Resonance** using the D41 Sanctuary Anchor (Dimension 41). This method identifies prime stability through manifold tension rather than traditional brute-force primality testing.
 
