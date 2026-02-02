@@ -3,6 +3,8 @@ Date First Discovery Created: Monday February 2nd 2026
 
 https://doi.org/10.5281/zenodo.18454377
 
+https://doi.org/10.5281/zenodo.18454738
+
 
 ## Overview
 This repository contains the neural weights and manifold interrogation scripts used to identify high-probability Mersenne prime candidates at the Zettillion and Googolplex scales.
